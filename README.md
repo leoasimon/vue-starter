@@ -1,0 +1,25 @@
+# Vue starter
+
+A simple starter made with vite and:
+
+- Typescript
+- Pinia
+- Tailwind
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Type-Check, Compile and Minify for Production
+
+```sh
+npm run build
+```
